@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ridimaagarwal30@gmail.com**
 
-- ⚡ Fun fact **I like participating in college events such as dancing, anchoring, volunteering**
+- ⚡ Fun fact **I like participating in college events such as dancing, anchoring and volunteering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
