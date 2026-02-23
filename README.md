@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ridima Agarwal</h1>
-<h3 align="center">A passionate front-end developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riidii30&label=Profile%20views&color=0e75b6&style=flat" alt="riidii30" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ridimaagarwal30@gmail.com**
 
